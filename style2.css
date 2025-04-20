@@ -1,0 +1,77 @@
+﻿ .page{
+    width: 1350px;
+    margin: 0px auto;
+    
+ }
+ 
+.container {
+  display: flex;
+  margin-top: 30px;
+}
+
+.block0 {
+ margin: auto;
+ height: 10%;
+ width: 100%;
+ text-align: center;
+  
+
+}
+
+.block1 {
+  height: 900px;
+  width: 230px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.block2 {
+  height: 100%;
+  width: 100%;
+  font-family: century gothic;
+  margin-left: 40px;
+  
+}
+
+.block3 {
+  height: 100%;
+  width: 300px;
+
+ 
+  margin-right: 40px;
+  margin-left: 40px;
+  font-family: century gothic;
+  
+}
+
+.weather {
+  height: 206px;
+  width: 350px;
+ 
+  margin-top: 40px;
+  
+}
+
+.buttons{
+  font-family: century gothic;
+  color: white; 
+  padding: 1px;
+}
+
+.mainbuttons{ 
+  font-family: century gothic;
+  color: #FFFF77; 
+}
+
+.imga{
+ float: left;
+ border: 1px;
+ width: 20%;
+ height: 20%;
+ padding-right:10px;
+}
+
+.text1 {
+ font-family: century gothic;
+ font-size: 100%;
+}

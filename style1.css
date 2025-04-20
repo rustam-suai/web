@@ -1,0 +1,31 @@
+﻿ ul.nav{
+                margin: auto;
+                padding: 0;
+                list-style: none;    
+            }
+            .nav li { 
+                display: inline;
+                
+            }
+            ul.nav a {
+                margin: 2px;
+                display: inline-block;
+                padding-right: 50px;
+                padding-left: 50px;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                background-color: #163ea4;
+                border: 5px solid #00008B;
+                text-decoration: none;
+                text-align: center;
+                font-weight: 600;
+                font-size: 150%;
+            }
+            ul.nav a:hover{
+                background-color: #5585E6;
+                color: #f4f4f4;
+ .body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #3366CC; /* Цвет фона веб-страницы */
+   }
